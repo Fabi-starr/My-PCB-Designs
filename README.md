@@ -28,21 +28,7 @@ Features
   - SMA Connector
 
 ## Block Diagram
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
+see the file include block diagram...........
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute or improve the design.
 ## Contact
